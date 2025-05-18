@@ -45,7 +45,7 @@ Register Page:
 Login Page:
 ![image](https://github.com/user-attachments/assets/ae6d13df-513a-456b-a146-d63ca67aefaa)
 
-Home Screen:
+Register Project:
 ![image](https://github.com/user-attachments/assets/363a9705-67ab-49af-8a7d-3137d7e4e1bf)
 
 User Dashboard:
@@ -57,7 +57,7 @@ Register Apartment:
 Register Room:
 ![image](https://github.com/user-attachments/assets/fd33e42b-b5d5-4afa-a6fb-2c1f3ca82b2e)
 
-Register Project:
+Home Screen:
 ![image](https://github.com/user-attachments/assets/9b0a06ba-1547-41d2-85f8-b74cbede1bd7)
 
 User Register Apartment Details:
