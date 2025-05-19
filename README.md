@@ -22,9 +22,9 @@ https://code.visualstudio.com/download
 
 ### step 4 : activate the Virtual Environment
 >env\scripts\activate
-If not working directly then try following command :
+
 > Set-ExecutionPolicy Unrestricted -Scope Process
-and then :
+
 >env\scripts\activate
 
 ### step 5 : Install all the Packages or Modules inside requirements.txt file
