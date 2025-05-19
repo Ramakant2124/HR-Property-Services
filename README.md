@@ -14,7 +14,7 @@ Python - https://www.python.org/ftp/python/3.13.3/python-3.13.3-amd64.exe
 Flask - pip install flask
 Mysql - https://dev.mysql.com/downloads/installer/
 
-step 2 : Install Visual Studio(Recommended) and Whl file
+### step 2 : Install Visual Studio(Recommended) and Whl file
 https://code.visualstudio.com/download
 
 ### step 3 : Create a virtual environment(env)
@@ -22,8 +22,10 @@ https://code.visualstudio.com/download
 
 ### step 4 : activate the Virtual Environment
 >env\scripts\activate
-If not working directly then try following command : Set-ExecutionPolicy Unrestricted -Scope Process
-and then : env\scripts\activate
+If not working directly then try following command :
+> Set-ExecutionPolicy Unrestricted -Scope Process
+and then :
+>env\scripts\activate
 
 ### step 5 : Install all the Packages or Modules inside requirements.txt file
 >pip install -r requirements.txt
