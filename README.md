@@ -2,7 +2,7 @@
 
 Hello Developers!
 This is HR Property Services that means a PROPERTY MANAGEMENT project built in flask framewrok. The project has been built by taking reference from other Project.
-The Project has been developed as final year project in TYBCA with a classmate [Harsh Chhatwani](https://github.com/Harsh450979).
+The Project has been developed as final year project in TYBCA with a classmate [Harsh Chhatwani](https://github.com/chhatwaniharsh).
 
 ## Introduction To Project:
 This project focuses on providing HR PROPERTY SERVICES to real estate agencies, commercial construction companies or HR PROPERTY SERVICES company. This helps customer to save time & get right business solution for your business. The real estate business deals with the development of the property and the lease, rent or sale of establishments. It is one of the fastest growing enterprises in India. It has potentially never-ending growth. Incredibly lawyers and real estate people have the highest income. As the real estate agent one has to maintain a lot of data. He is involved-with the clients who has to lease out, rent or sale the property and with the customer who intends to buy, rent or lease the property. Hence it involves lot of information exchange. The advent of computers can ease out this hassle. 
